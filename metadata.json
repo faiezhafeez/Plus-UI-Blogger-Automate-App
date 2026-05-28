@@ -1,0 +1,6 @@
+{
+  "name": "Blogger Manager",
+  "description": "An interactive web application to connect and manage Blogger accounts, allowing users to browse, create, edit, and publish blog posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
